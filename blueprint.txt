@@ -1,0 +1,26 @@
+#Schema
+
+University: Object {}
+    short_name: String ""
+    apply_online: String ""
+    faculties: List[]
+        faculty: Object {}
+            degree Type: List[]
+                courses: List[]
+                    course: Object {}
+                        name: String ""
+                        code: String ""
+                        note: String ""
+                        subjects: Object
+                            Science: Object{}
+                            Languages: Object{}
+                            Other: Object{}
+                        career_paths: Object{}
+                            path: Object{}
+                                path_name: String ""
+                                path_description ""
+                        campus: String "",
+
+
+
+
