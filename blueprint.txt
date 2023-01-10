@@ -11,6 +11,7 @@ University: Object {}
                         name: String ""
                         code: String ""
                         note: String ""
+                        aps: String ""
                         subjects: Object
                             Science: Object{}
                             Languages: Object{}
