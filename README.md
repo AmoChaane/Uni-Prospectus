@@ -39,7 +39,7 @@ Its easy to contribute just follow the steps below
 
 git clone https://github.com/yourUserName/Uni-Prospectus.git 
 
-cd Online-Store
+cd Uni-Prospectus
 
 git checkout -b YOUR_FAVOURITE_BRANCH_NAME
 
