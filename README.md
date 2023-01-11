@@ -22,3 +22,48 @@ All SA university courses and matric results requirements api
 4. Run tests against the whole api
 
 
+# Contribution
+
+Its easy to contribute just follow the steps below
+
+> Make sure to respect anyone who is contributing and spread love not hate.
+
+# Prerequisites
+
+- Make sure you do this before the fun can begin
+1. ``` fork ``` the repo
+
+2. Then copy the link of the repo ```git https://github.com/yourUserName/Uni-Prospectus.git ```
+
+```bash
+
+git clone https://github.com/yourUserName/Uni-Prospectus.git 
+
+cd Online-Store
+
+git checkout -b YOUR_FAVOURITE_BRANCH_NAME
+
+```
+- Don't using `main` or `master` as YOUR_FAVOURITE_BRANCH_NAME
+
+- Install dependancies
+
+```bash
+
+    npm install
+
+```
+
+9. Code Away 🤱 😜
+10. When you are done having fun (Make sure the current branch is your favourite branch name
+
+```
+git fetch upstream
+git merge upstream/main
+git add .
+git commit -m "What changes did you make"
+git push -u origin YOUR_FAVOURITE_BRANCH_NAME
+
+```
+
+Well done !!! 

@@ -1,0 +1,24 @@
+{
+  "name": "Uni-Prospectus",
+  "version": "1.0.0",
+  "description": "All SA university courses and matric results requirements api",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SizoDevelops/Uni-Prospectus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SizoDevelops/Uni-Prospectus/issues"
+  },
+  "homepage": "https://github.com/SizoDevelops/Uni-Prospectus#readme"
+}
