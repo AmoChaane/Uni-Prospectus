@@ -1,49 +1,57 @@
+
 {
     "uni_name": {
         "short_name": "",
+        "full_name": "",
         "apply_online": "",
         "faculties": [
             {
                 "faculty_name": "",
-                "bachelor_degrees": [
-                    {
+                "programs": [
+                     {
                         "name": "",
                         "code": "",
+                        "type": "",
+                        "duration": "",
                         "note": "",
                         "aps": "",
                         "subjects": {
                             "science": {
-                                "physical_science": null,
-                                "life_sciences": null,
-                                "agricultural_science": null
+                                "physical_science": "",
+                                "life_sciences": "",
+                                "agricultural_science": "",
+                                "mathematics": "",
+                                "mathematics_literacy": "",
+                                "technical_mathematics": "",
+                                "technical_science": ""
                             },
                             "languages": {
-                                "english_home_language": null,
-                                "english_additional_language": null,
-                                "isizulu_home_language": null,
-                                "isizulu_additional_language": null,
-                                "sepedi_home_language": null,
-                                "sepedi_additional_language": null,
-                                "xhosa_home_language": null,
-                                "xhosa_additional_language": null,
-                                "ndebele_home_language": null,
-                                "ndebele_additional_language": null,
-                                "afrikaans_home_language": null,
-                                "afrikaans_additional_language": null,
-                                "xitsonga_home_language": null,
-                                "xitsonga_additional_language": null,
-                                "xhivenda_home_language": null,
-                                "xhivenda_additional_language": null,
-                                "sotho_home_language": null,
-                                "sotho_additional_language": null,
-                                "isiswati_home_language": null,
-                                "isiswati_additional_language": null,
-                                "setswana_home_language": null,
-                                "setswana_additional_language": null
+                                "english_home_language": "",
+                                "english_additional_language": "",
+                                "isizulu_home_language": "",
+                                "isizulu_additional_language": "",
+                                "sepedi_home_language": "",
+                                "sepedi_additional_language": "",
+                                "xhosa_home_language": "",
+                                "xhosa_additional_language": "",
+                                "ndebele_home_language": "",
+                                "ndebele_additional_language": "",
+                                "afrikaans_home_language": "",
+                                "afrikaans_additional_language": "",
+                                "xitsonga_home_language": "",
+                                "xitsonga_additional_language": "",
+                                "xhivenda_home_language": "",
+                                "xhivenda_additional_language": "",
+                                "sotho_home_language": "",
+                                "sotho_additional_language": "",
+                                "isiswati_home_language": "",
+                                "isiswati_additional_language": "",
+                                "setswana_home_language": "",
+                                "setswana_additional_language": ""
                             },
                             "other": {
-                                "life_orientation": null,
-                                "agriculture": null
+                                "life_orientation": "",
+                                "agriculture": ""
                             }
                         },
                         "career_paths": [
@@ -52,59 +60,11 @@
                                 "description": ""
                             }
                         ],
-                        "campus": ""
-                    }
-                ],
-                "extended_degrees": [
-                    {
-                        "name": "",
-                        "code": "",
-                        "note": "",
-                        "aps": "",
-                        "subjects": {
-                            "science": {
-                                "physical_science": null,
-                                "life_sciences": null,
-                                "agricultural_science": null
-                            },
-                            "languages": {
-                                "english_home_language": null,
-                                "english_additional_language": null,
-                                "isizulu_home_language": null,
-                                "isizulu_additional_language": null,
-                                "sepedi_home_language": null,
-                                "sepedi_additional_language": null,
-                                "xhosa_home_language": null,
-                                "xhosa_additional_language": null,
-                                "ndebele_home_language": null,
-                                "ndebele_additional_language": null,
-                                "afrikaans_home_language": null,
-                                "afrikaans_additional_language": null,
-                                "xitsonga_home_language": null,
-                                "xitsonga_additional_language": null,
-                                "xhivenda_home_language": null,
-                                "xhivenda_additional_language": null,
-                                "sotho_home_language": null,
-                                "sotho_additional_language": null,
-                                "isiswati_home_language": null,
-                                "isiswati_additional_language": null,
-                                "setswana_home_language": null,
-                                "setswana_additional_language": null
-                            },
-                            "other": {
-                                "life_orientation": null,
-                                "agriculture": null
-                            }
-                        },
-                        "career_paths": [
-                            {
-                                "name": "",
-                                "description": ""
-                            }
-                        ],
-                        "campus": ""
+                        "campus": "",
+                        "additional_requirements": ""
                     }
                 ]
+              
             }
         ]
     }

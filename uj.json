@@ -1,0 +1,840 @@
+{
+    "University_Of_Johannesburg": {
+        "short_name": "",
+        "full_name": "",
+        "apply_online": "",
+        "faculties": [
+            {
+                "faculty_name": "Faculty of Art, Design and Architecture",
+                "programs": [
+                     {
+                        "name": "Bachelor of Architecture",
+                        "code": "B8BA3Q",
+                        "type": "Bachelor Degree",
+                        "duration": "3",
+                        "note": "Recommended subjects: Engineering Graphics and Design, Mechanical Technology, Consumer Studies, History",
+                        "aps": "28",
+                        "subjects": {
+                            "science_and_maths": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "5",
+                                "mathematics_literacy": "Not Accepted",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "5",
+                                "english_additional_language": "5",
+                                "isizulu_home_language": "4",
+                                "isizulu_additional_language": "4",
+                                "sepedi_home_language": "4",
+                                "sepedi_additional_language": "4",
+                                "xhosa_home_language": "4",
+                                "xhosa_additional_language": "4",
+                                "ndebele_home_language": "4",
+                                "ndebele_additional_language": "4",
+                                "afrikaans_home_language": "4",
+                                "afrikaans_additional_language": "4",
+                                "xitsonga_home_language": "4",
+                                "xitsonga_additional_language": "4",
+                                "xhivenda_home_language": "4",
+                                "xhivenda_additional_language": "4",
+                                "sotho_home_language": "4",
+                                "sotho_additional_language": "4",
+                                "isiswati_home_language": "4",
+                                "isiswati_additional_language": "4",
+                                "setswana_home_language": "4",
+                                "setswana_additional_language": "4"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "APB",
+                        "additional_requirements": "Submission of a specified portfolio"
+                    },
+                    {
+                        "name": "BA Design (Communication Design)",
+                        "code": "B8CD1Q",
+                        "type": "BA Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "23 with Mathematics / 24 with Mathematics literacy",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "4",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "5",
+                                "english_additional_language": "5",
+                                "isizulu_home_language": "4",
+                                "isizulu_additional_language": "4",
+                                "sepedi_home_language": "4",
+                                "sepedi_additional_language": "4",
+                                "xhosa_home_language": "4",
+                                "xhosa_additional_language": "4",
+                                "ndebele_home_language": "4",
+                                "ndebele_additional_language": "4",
+                                "afrikaans_home_language": "4",
+                                "afrikaans_additional_language": "4",
+                                "xitsonga_home_language": "4",
+                                "xitsonga_additional_language": "4",
+                                "xhivenda_home_language": "4",
+                                "xhivenda_additional_language": "4",
+                                "sotho_home_language": "4",
+                                "sotho_additional_language": "4",
+                                "isiswati_home_language": "4",
+                                "isiswati_additional_language": "4",
+                                "setswana_home_language": "4",
+                                "setswana_additional_language": "4"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "APB",
+                        "additional_requirements": "Submission of a specified portfolio"
+                    },
+                    {
+                        "name": "BA (Digital Media Design)",
+                        "code": "B8DM3Q",
+                        "type": "BA Degree",
+                        "duration": "3",
+                        "note": "Recommended subjects: Engineering Graphics and Design, Mechanical Technology, Consumer Studies, History",
+                        "aps": "23 with Mathematics / 24 with Mathematics literacy",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "4",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "5",
+                                "english_additional_language": "5",
+                                "isizulu_home_language": "4",
+                                "isizulu_additional_language": "4",
+                                "sepedi_home_language": "4",
+                                "sepedi_additional_language": "4",
+                                "xhosa_home_language": "4",
+                                "xhosa_additional_language": "4",
+                                "ndebele_home_language": "4",
+                                "ndebele_additional_language": "4",
+                                "afrikaans_home_language": "4",
+                                "afrikaans_additional_language": "4",
+                                "xitsonga_home_language": "4",
+                                "xitsonga_additional_language": "4",
+                                "xhivenda_home_language": "4",
+                                "xhivenda_additional_language": "4",
+                                "sotho_home_language": "4",
+                                "sotho_additional_language": "4",
+                                "isiswati_home_language": "4",
+                                "isiswati_additional_language": "",
+                                "setswana_home_language": "",
+                                "setswana_additional_language": ""
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "APB",
+                        "additional_requirements": "Submission of a specified portfolio"
+                    },
+                    {
+                        "name": "BA Design (Industrial design)",
+                        "code": "B8ID1Q",
+                        "type": "BA Degree",
+                        "duration": "3",
+                        "note": "Recommended subjects: Engineering Graphics and Design, Mechanical Technology, Consumer Studies, History",
+                        "aps": "23 with Mathematics / 24 with Mathematics literacy",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "4",
+                                "isizulu_additional_language": "4",
+                                "sepedi_home_language": "4",
+                                "sepedi_additional_language": "4",
+                                "xhosa_home_language": "4",
+                                "xhosa_additional_language": "4",
+                                "ndebele_home_language": "4",
+                                "ndebele_additional_language": "4",
+                                "afrikaans_home_language": "4",
+                                "afrikaans_additional_language": "4",
+                                "xitsonga_home_language": "4",
+                                "xitsonga_additional_language": "4",
+                                "xhivenda_home_language": "4",
+                                "xhivenda_additional_language": "4",
+                                "sotho_home_language": "4",
+                                "sotho_additional_language": "4",
+                                "isiswati_home_language": "4",
+                                "isiswati_additional_language": "4",
+                                "setswana_home_language": "4",
+                                "setswana_additional_language": "4"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "APB",
+                        "additional_requirements": "Submission of a specified portfolio"
+                    },
+                    {
+                        "name": "BA Design (Interior Design)",
+                        "code": "B8BA6Q",
+                        "type": "BA Degree",
+                        "duration": "3",
+                        "note": "Recommended subjects: Engineering Graphics and Design, Mechanical Technology, Consumer Studies, History",
+                        "aps": "23 with Mathematics / 24 with Mathematics literacy",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "4",
+                                "isizulu_additional_language": "4",
+                                "sepedi_home_language": "4",
+                                "sepedi_additional_language": "4",
+                                "xhosa_home_language": "4",
+                                "xhosa_additional_language": "4",
+                                "ndebele_home_language": "4",
+                                "ndebele_additional_language": "4",
+                                "afrikaans_home_language": "4",
+                                "afrikaans_additional_language": "4",
+                                "xitsonga_home_language": "4",
+                                "xitsonga_additional_language": "4",
+                                "xhivenda_home_language": "4",
+                                "xhivenda_additional_language": "4",
+                                "sotho_home_language": "4",
+                                "sotho_additional_language": "4",
+                                "isiswati_home_language": "4",
+                                "isiswati_additional_language": "4",
+                                "setswana_home_language": "4",
+                                "setswana_additional_language": "4"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "APB",
+                        "additional_requirements": "Entrance assessment and Submission of a specified portfolio"
+                    },
+                    {
+                        "name": "BA Design (Fashion Design)",
+                        "code": "B8FD1Q",
+                        "type": "BA Degree",
+                        "duration": "3",
+                        "note": "Recommended subjects: Engineering Graphics and Design, Mechanical Technology, Consumer Studies, History",
+                        "aps": "23 with Mathematics / 24 with Mathematics literacy",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "4",
+                                "isizulu_additional_language": "4",
+                                "sepedi_home_language": "4",
+                                "sepedi_additional_language": "4",
+                                "xhosa_home_language": "4",
+                                "xhosa_additional_language": "4",
+                                "ndebele_home_language": "4",
+                                "ndebele_additional_language": "4",
+                                "afrikaans_home_language": "4",
+                                "afrikaans_additional_language": "4",
+                                "xitsonga_home_language": "4",
+                                "xitsonga_additional_language": "4",
+                                "xhivenda_home_language": "4",
+                                "xhivenda_additional_language": "4",
+                                "sotho_home_language": "4",
+                                "sotho_additional_language": "4",
+                                "isiswati_home_language": "4",
+                                "isiswati_additional_language": "4",
+                                "setswana_home_language": "4",
+                                "setswana_additional_language": "4"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "APB",
+                        "additional_requirements": "Submission of a specified portfolio"
+                    },
+                    {
+                        "name": "BA (Visual Art)",
+                        "code": "B8BA7Q",
+                        "type": "BA Degree",
+                        "duration": "3",
+                        "note": "The requirement for maths or maths literacy as matric subjects for international admission into the BA in Visual Art UG degree may be exempt - provided the university entrance requirements and APS score remain intact and such admission is compliant with all UG Degree requirements.",
+                        "aps": "23 with Mathematics / 24 with Mathematics literacy",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "4",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "4",
+                                "isizulu_additional_language": "4",
+                                "sepedi_home_language": "4",
+                                "sepedi_additional_language": "4",
+                                "xhosa_home_language": "4",
+                                "xhosa_additional_language": "4",
+                                "ndebele_home_language": "4",
+                                "ndebele_additional_language": "4",
+                                "afrikaans_home_language": "4",
+                                "afrikaans_additional_language": "4",
+                                "xitsonga_home_language": "4",
+                                "xitsonga_additional_language": "4",
+                                "xhivenda_home_language": "4",
+                                "xhivenda_additional_language": "4",
+                                "sotho_home_language": "4",
+                                "sotho_additional_language": "4",
+                                "isiswati_home_language": "4",
+                                "isiswati_additional_language": "4",
+                                "setswana_home_language": "4",
+                                "setswana_additional_language": "4"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "APB",
+                        "additional_requirements": "Submission of a specified portfolio"
+                    },
+                    {
+                        "name": "Architecture",
+                        "code": "D8AT1Q",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "23 with Mathematics / 24 with Technical Mathematics",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "Not Accepted",
+                                "technical_mathematics": "5",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "4",
+                                "isizulu_additional_language": "4",
+                                "sepedi_home_language": "4",
+                                "sepedi_additional_language": "4",
+                                "xhosa_home_language": "4",
+                                "xhosa_additional_language": "4",
+                                "ndebele_home_language": "4",
+                                "ndebele_additional_language": "4",
+                                "afrikaans_home_language": "4",
+                                "afrikaans_additional_language": "4",
+                                "xitsonga_home_language": "4",
+                                "xitsonga_additional_language": "4",
+                                "xhivenda_home_language": "4",
+                                "xhivenda_additional_language": "4",
+                                "sotho_home_language": "4",
+                                "sotho_additional_language": "4",
+                                "isiswati_home_language": "4",
+                                "isiswati_additional_language": "4",
+                                "setswana_home_language": "4",
+                                "setswana_additional_language": "4"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "APB",
+                        "additional_requirements": "Submission of a specified portfolio"
+                    },
+                    {
+                        "name": "Jewellery Design and Manufature",
+                        "code": "D8JD1Q",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "18 with Mathamatics OR 19 with Mathametics Literacy OR 20 with Technical Mathametics",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "4",
+                                "technical_mathematics": "5",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "4",
+                                "isizulu_additional_language": "4",
+                                "sepedi_home_language": "4",
+                                "sepedi_additional_language": "4",
+                                "xhosa_home_language": "4",
+                                "xhosa_additional_language": "4",
+                                "ndebele_home_language": "4",
+                                "ndebele_additional_language": "4",
+                                "afrikaans_home_language": "4",
+                                "afrikaans_additional_language": "4",
+                                "xitsonga_home_language": "4",
+                                "xitsonga_additional_language": "4",
+                                "xhivenda_home_language": "4",
+                                "xhivenda_additional_language": "4",
+                                "sotho_home_language": "4",
+                                "sotho_additional_language": "4",
+                                "isiswati_home_language": "4",
+                                "isiswati_additional_language": "4",
+                                "setswana_home_language": "4",
+                                "setswana_additional_language": "4"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "APB",
+                        "additional_requirements": "Entrance assessment and Submission of a specified portfolio"
+                    },
+                    {
+                        "name": "Fashion Production",
+                        "code": "D8FP1Q",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "20 with Mathematics / 21 with Mathematics literacy",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "4",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "4",
+                                "isizulu_additional_language": "4",
+                                "sepedi_home_language": "4",
+                                "sepedi_additional_language": "4",
+                                "xhosa_home_language": "4",
+                                "xhosa_additional_language": "4",
+                                "ndebele_home_language": "4",
+                                "ndebele_additional_language": "4",
+                                "afrikaans_home_language": "4",
+                                "afrikaans_additional_language": "4",
+                                "xitsonga_home_language": "4",
+                                "xitsonga_additional_language": "4",
+                                "xhivenda_home_language": "4",
+                                "xhivenda_additional_language": "4",
+                                "sotho_home_language": "4",
+                                "sotho_additional_language": "4",
+                                "isiswati_home_language": "4",
+                                "isiswati_additional_language": "4",
+                                "setswana_home_language": "4",
+                                "setswana_additional_language": "4"
+                            },
+                            "other": {
+                                "life_orientation": "4",
+                                "agriculture": "4"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "APB",
+                        "additional_requirements": "Submission of a specified portfolio"
+                    },
+                    {
+                        "name": "",
+                        "code": "",
+                        "type": "",
+                        "duration": "",
+                        "note": "",
+                        "aps": "",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "",
+                                "life_sciences": "",
+                                "agricultural_science": "",
+                                "mathematics": "",
+                                "mathematics_literacy": "",
+                                "technical_mathematics": "",
+                                "technical_science": ""
+                            },
+                            "languages": {
+                                "english_home_language": "",
+                                "english_additional_language": "",
+                                "isizulu_home_language": "",
+                                "isizulu_additional_language": "",
+                                "sepedi_home_language": "",
+                                "sepedi_additional_language": "",
+                                "xhosa_home_language": "",
+                                "xhosa_additional_language": "",
+                                "ndebele_home_language": "",
+                                "ndebele_additional_language": "",
+                                "afrikaans_home_language": "",
+                                "afrikaans_additional_language": "",
+                                "xitsonga_home_language": "",
+                                "xitsonga_additional_language": "",
+                                "xhivenda_home_language": "",
+                                "xhivenda_additional_language": "",
+                                "sotho_home_language": "",
+                                "sotho_additional_language": "",
+                                "isiswati_home_language": "",
+                                "isiswati_additional_language": "",
+                                "setswana_home_language": "",
+                                "setswana_additional_language": ""
+                            },
+                            "other": {
+                                "life_orientation": "",
+                                "agriculture": ""
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "",
+                        "code": "",
+                        "type": "",
+                        "duration": "",
+                        "note": "",
+                        "aps": "",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "",
+                                "life_sciences": "",
+                                "agricultural_science": "",
+                                "mathematics": "",
+                                "mathematics_literacy": "",
+                                "technical_mathematics": "",
+                                "technical_science": ""
+                            },
+                            "languages": {
+                                "english_home_language": "",
+                                "english_additional_language": "",
+                                "isizulu_home_language": "",
+                                "isizulu_additional_language": "",
+                                "sepedi_home_language": "",
+                                "sepedi_additional_language": "",
+                                "xhosa_home_language": "",
+                                "xhosa_additional_language": "",
+                                "ndebele_home_language": "",
+                                "ndebele_additional_language": "",
+                                "afrikaans_home_language": "",
+                                "afrikaans_additional_language": "",
+                                "xitsonga_home_language": "",
+                                "xitsonga_additional_language": "",
+                                "xhivenda_home_language": "",
+                                "xhivenda_additional_language": "",
+                                "sotho_home_language": "",
+                                "sotho_additional_language": "",
+                                "isiswati_home_language": "",
+                                "isiswati_additional_language": "",
+                                "setswana_home_language": "",
+                                "setswana_additional_language": ""
+                            },
+                            "other": {
+                                "life_orientation": "",
+                                "agriculture": ""
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "",
+                        "code": "",
+                        "type": "",
+                        "duration": "",
+                        "note": "",
+                        "aps": "",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "",
+                                "life_sciences": "",
+                                "agricultural_science": "",
+                                "mathematics": "",
+                                "mathematics_literacy": "",
+                                "technical_mathematics": "",
+                                "technical_science": ""
+                            },
+                            "languages": {
+                                "english_home_language": "",
+                                "english_additional_language": "",
+                                "isizulu_home_language": "",
+                                "isizulu_additional_language": "",
+                                "sepedi_home_language": "",
+                                "sepedi_additional_language": "",
+                                "xhosa_home_language": "",
+                                "xhosa_additional_language": "",
+                                "ndebele_home_language": "",
+                                "ndebele_additional_language": "",
+                                "afrikaans_home_language": "",
+                                "afrikaans_additional_language": "",
+                                "xitsonga_home_language": "",
+                                "xitsonga_additional_language": "",
+                                "xhivenda_home_language": "",
+                                "xhivenda_additional_language": "",
+                                "sotho_home_language": "",
+                                "sotho_additional_language": "",
+                                "isiswati_home_language": "",
+                                "isiswati_additional_language": "",
+                                "setswana_home_language": "",
+                                "setswana_additional_language": ""
+                            },
+                            "other": {
+                                "life_orientation": "",
+                                "agriculture": ""
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "",
+                        "code": "",
+                        "type": "",
+                        "duration": "",
+                        "note": "",
+                        "aps": "",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "",
+                                "life_sciences": "",
+                                "agricultural_science": "",
+                                "mathematics": "",
+                                "mathematics_literacy": "",
+                                "technical_mathematics": "",
+                                "technical_science": ""
+                            },
+                            "languages": {
+                                "english_home_language": "",
+                                "english_additional_language": "",
+                                "isizulu_home_language": "",
+                                "isizulu_additional_language": "",
+                                "sepedi_home_language": "",
+                                "sepedi_additional_language": "",
+                                "xhosa_home_language": "",
+                                "xhosa_additional_language": "",
+                                "ndebele_home_language": "",
+                                "ndebele_additional_language": "",
+                                "afrikaans_home_language": "",
+                                "afrikaans_additional_language": "",
+                                "xitsonga_home_language": "",
+                                "xitsonga_additional_language": "",
+                                "xhivenda_home_language": "",
+                                "xhivenda_additional_language": "",
+                                "sotho_home_language": "",
+                                "sotho_additional_language": "",
+                                "isiswati_home_language": "",
+                                "isiswati_additional_language": "",
+                                "setswana_home_language": "",
+                                "setswana_additional_language": ""
+                            },
+                            "other": {
+                                "life_orientation": "",
+                                "agriculture": ""
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "",
+                        "code": "",
+                        "type": "",
+                        "duration": "",
+                        "note": "",
+                        "aps": "",
+                        "subjects": {
+                            "science": {
+                                "physical_science": "",
+                                "life_sciences": "",
+                                "agricultural_science": "",
+                                "mathematics": "",
+                                "mathematics_literacy": "",
+                                "technical_mathematics": "",
+                                "technical_science": ""
+                            },
+                            "languages": {
+                                "english_home_language": "",
+                                "english_additional_language": "",
+                                "isizulu_home_language": "",
+                                "isizulu_additional_language": "",
+                                "sepedi_home_language": "",
+                                "sepedi_additional_language": "",
+                                "xhosa_home_language": "",
+                                "xhosa_additional_language": "",
+                                "ndebele_home_language": "",
+                                "ndebele_additional_language": "",
+                                "afrikaans_home_language": "",
+                                "afrikaans_additional_language": "",
+                                "xitsonga_home_language": "",
+                                "xitsonga_additional_language": "",
+                                "xhivenda_home_language": "",
+                                "xhivenda_additional_language": "",
+                                "sotho_home_language": "",
+                                "sotho_additional_language": "",
+                                "isiswati_home_language": "",
+                                "isiswati_additional_language": "",
+                                "setswana_home_language": "",
+                                "setswana_additional_language": ""
+                            },
+                            "other": {
+                                "life_orientation": "",
+                                "agriculture": ""
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    }
+                ]
+              
+            }
+        ]
+    }
+}
