@@ -1,5 +1,5 @@
 {
-  "name": "Uni-Prospectus",
+  "name": "uni-prospectus",
   "version": "1.0.0",
   "description": "All SA university courses and matric results requirements api",
   "main": "server.js",

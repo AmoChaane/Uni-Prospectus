@@ -16,7 +16,7 @@
                         "note": "",
                         "aps": "",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "",
                                 "life_sciences": "",
                                 "agricultural_science": "",
@@ -51,7 +51,8 @@
                             },
                             "other": {
                                 "life_orientation": "",
-                                "agriculture": ""
+                                "agriculture": "",
+                                "geography": ""
                             }
                         },
                         "career_paths": [

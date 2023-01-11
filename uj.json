@@ -50,7 +50,8 @@
                             },
                             "other": {
                                 "life_orientation": "Not Required",
-                                "agriculture": "Not Required"
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
                             }
                         },
                         "career_paths": [
@@ -68,9 +69,9 @@
                         "type": "BA Degree",
                         "duration": "3",
                         "note": "",
-                        "aps": "23 with Mathematics / 24 with Mathematics literacy",
+                        "aps": "23 with Mathematics OR 24 with Mathematics literacy",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "Not Required",
                                 "life_sciences": "Not Required",
                                 "agricultural_science": "Not Required",
@@ -105,7 +106,8 @@
                             },
                             "other": {
                                 "life_orientation": "Not Required",
-                                "agriculture": "Not Required"
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
                             }
                         },
                         "career_paths": [
@@ -123,9 +125,9 @@
                         "type": "BA Degree",
                         "duration": "3",
                         "note": "Recommended subjects: Engineering Graphics and Design, Mechanical Technology, Consumer Studies, History",
-                        "aps": "23 with Mathematics / 24 with Mathematics literacy",
+                        "aps": "23 with Mathematics OR 24 with Mathematics literacy",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "Not Required",
                                 "life_sciences": "Not Required",
                                 "agricultural_science": "Not Required",
@@ -160,7 +162,8 @@
                             },
                             "other": {
                                 "life_orientation": "Not Required",
-                                "agriculture": "Not Required"
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
                             }
                         },
                         "career_paths": [
@@ -178,9 +181,9 @@
                         "type": "BA Degree",
                         "duration": "3",
                         "note": "Recommended subjects: Engineering Graphics and Design, Mechanical Technology, Consumer Studies, History",
-                        "aps": "23 with Mathematics / 24 with Mathematics literacy",
+                        "aps": "23 with Mathematics OR 24 with Mathematics literacy",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "Not Required",
                                 "life_sciences": "Not Required",
                                 "agricultural_science": "Not Required",
@@ -215,7 +218,8 @@
                             },
                             "other": {
                                 "life_orientation": "Not Required",
-                                "agriculture": "Not Required"
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
                             }
                         },
                         "career_paths": [
@@ -233,9 +237,9 @@
                         "type": "BA Degree",
                         "duration": "3",
                         "note": "Recommended subjects: Engineering Graphics and Design, Mechanical Technology, Consumer Studies, History",
-                        "aps": "23 with Mathematics / 24 with Mathematics literacy",
+                        "aps": "23 with Mathematics OR 24 with Mathematics literacy",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "Not Required",
                                 "life_sciences": "Not Required",
                                 "agricultural_science": "Not Required",
@@ -270,7 +274,8 @@
                             },
                             "other": {
                                 "life_orientation": "Not Required",
-                                "agriculture": "Not Required"
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
                             }
                         },
                         "career_paths": [
@@ -288,9 +293,9 @@
                         "type": "BA Degree",
                         "duration": "3",
                         "note": "Recommended subjects: Engineering Graphics and Design, Mechanical Technology, Consumer Studies, History",
-                        "aps": "23 with Mathematics / 24 with Mathematics literacy",
+                        "aps": "23 with Mathematics OR 24 with Mathematics literacy",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "Not Required",
                                 "life_sciences": "Not Required",
                                 "agricultural_science": "Not Required",
@@ -325,7 +330,8 @@
                             },
                             "other": {
                                 "life_orientation": "Not Required",
-                                "agriculture": "Not Required"
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
                             }
                         },
                         "career_paths": [
@@ -343,9 +349,9 @@
                         "type": "BA Degree",
                         "duration": "3",
                         "note": "The requirement for maths or maths literacy as matric subjects for international admission into the BA in Visual Art UG degree may be exempt - provided the university entrance requirements and APS score remain intact and such admission is compliant with all UG Degree requirements.",
-                        "aps": "23 with Mathematics / 24 with Mathematics literacy",
+                        "aps": "23 with Mathematics OR 24 with Mathematics literacy",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "Not Required",
                                 "life_sciences": "Not Required",
                                 "agricultural_science": "Not Required",
@@ -380,7 +386,8 @@
                             },
                             "other": {
                                 "life_orientation": "Not Required",
-                                "agriculture": "Not Required"
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
                             }
                         },
                         "career_paths": [
@@ -398,9 +405,9 @@
                         "type": "Diploma",
                         "duration": "3",
                         "note": "",
-                        "aps": "23 with Mathematics / 24 with Technical Mathematics",
+                        "aps": "23 with Mathematics OR 24 with Technical Mathematics",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "Not Required",
                                 "life_sciences": "Not Required",
                                 "agricultural_science": "Not Required",
@@ -435,7 +442,8 @@
                             },
                             "other": {
                                 "life_orientation": "Not Required",
-                                "agriculture": "Not Required"
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
                             }
                         },
                         "career_paths": [
@@ -455,7 +463,7 @@
                         "note": "",
                         "aps": "18 with Mathamatics OR 19 with Mathametics Literacy OR 20 with Technical Mathametics",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "Not Required",
                                 "life_sciences": "Not Required",
                                 "agricultural_science": "Not Required",
@@ -490,7 +498,8 @@
                             },
                             "other": {
                                 "life_orientation": "Not Required",
-                                "agriculture": "Not Required"
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
                             }
                         },
                         "career_paths": [
@@ -508,9 +517,9 @@
                         "type": "Diploma",
                         "duration": "3",
                         "note": "",
-                        "aps": "20 with Mathematics / 21 with Mathematics literacy",
+                        "aps": "20 with Mathematics OR 21 with Mathematics literacy",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "Not Required",
                                 "life_sciences": "Not Required",
                                 "agricultural_science": "Not Required",
@@ -556,51 +565,2018 @@
                         ],
                         "campus": "APB",
                         "additional_requirements": "Submission of a specified portfolio"
-                    },
+                    }
+                ]
+              
+            },
+            {
+                "faculty_name": "Collage Of Business and Economics",
+                "programs": [
                     {
-                        "name": "",
-                        "code": "",
-                        "type": "",
-                        "duration": "",
+                        "name": "Accounting (CA)",
+                        "code": "BCA012",
+                        "type": "Bachelor Degree",
+                        "duration": "3",
                         "note": "",
-                        "aps": "",
+                        "aps": "33",
                         "subjects": {
-                            "science": {
-                                "physical_science": "",
-                                "life_sciences": "",
-                                "agricultural_science": "",
-                                "mathematics": "",
-                                "mathematics_literacy": "",
-                                "technical_mathematics": "",
-                                "technical_science": ""
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "5",
+                                "mathematics_literacy": "Not Accepted",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
                             },
                             "languages": {
-                                "english_home_language": "",
-                                "english_additional_language": "",
-                                "isizulu_home_language": "",
-                                "isizulu_additional_language": "",
-                                "sepedi_home_language": "",
-                                "sepedi_additional_language": "",
-                                "xhosa_home_language": "",
-                                "xhosa_additional_language": "",
-                                "ndebele_home_language": "",
-                                "ndebele_additional_language": "",
-                                "afrikaans_home_language": "",
-                                "afrikaans_additional_language": "",
-                                "xitsonga_home_language": "",
-                                "xitsonga_additional_language": "",
-                                "xhivenda_home_language": "",
-                                "xhivenda_additional_language": "",
-                                "sotho_home_language": "",
-                                "sotho_additional_language": "",
-                                "isiswati_home_language": "",
-                                "isiswati_additional_language": "",
-                                "setswana_home_language": "",
-                                "setswana_additional_language": ""
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
                             },
                             "other": {
-                                "life_orientation": "",
-                                "agriculture": ""
+                                "life_orientation": "Not Required",
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Hospitality Management",
+                        "code": "B34HMQ",
+                        "type": "Bachelor Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "26 with Mathematics OR 28 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "4",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "5",
+                                "english_additional_language": "5",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Human Resource Management",
+                        "code": "B34HRQ",
+                        "type": "Bachelor Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "28 with Mathematics OR 28 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "4",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Tourism Development and Management",
+                        "code": "B34TMQ",
+                        "type": "BA Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "26 with Mathematics OR 28 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "4",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "5",
+                                "english_additional_language": "5",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Public Management and Governance",
+                        "code": "B34PKQ / B34PSQ",
+                        "type": "Bachelor of Arts Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "26 with Mathematics OR 28 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "5",
+                                "english_additional_language": "5",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Accounting",
+                        "code": "B3A17Q",
+                        "type": "Bachelor of Commerce Degree",
+                        "duration": "3",
+                        "note": "Does not provide direct access to the Postgraduate Diploma in Accounting Science. However, students who complete the degree, may apply for a bridging programme (subject to space, admission requirements and the continued future offering of this programme). Upon completion of this bridging programme and compliance with specific performance requirements, candidates may then apply for the Postgraduate Diploma in Accounting Science.",
+                        "aps": "28",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "Not Accepted",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Business Management",
+                        "code": "B34BMQ",
+                        "type": "Bachelor of Commerce Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "26",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "Not Accepted",
+                                "technical_mathematics": "4",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Economics and Econometrics",
+                        "code": "B3N14Q",
+                        "type": "Bachelor of Commerce Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "28",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "Not Accepted",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                   "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Entrepreneurial Management",
+                        "code": "B1CEMQ",
+                        "type": "Bachelor of Commerce Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "26",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "Not Accepted",
+                                "technical_mathematics": "4",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Finance",
+                        "code": "B3F17Q",
+                        "type": "Bachelor of Commerce Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "28",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "Not Accepted",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Industrial Psychology",
+                        "code": "B34IPQ",
+                        "type": "Bachelor of Commerce Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "26",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "Not Accepted",
+                                "technical_mathematics": "4",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Information Management",
+                        "code": "B1CIM3",
+                        "type": "Bachelor of Commerce Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "26 with Mathematics OR 28 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "6",
+                                "technical_mathematics": "4",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Information Systems",
+                        "code": "B1CISQ",
+                        "type": "Bachelor of Commerce Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "26",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "Not Accepted",
+                                "technical_mathematics": "4",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Marketing Management",
+                        "code": "B1CMMQ",
+                        "type": "Bachelor of Commerce Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "26",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "Not Accepted",
+                                "technical_mathematics": "4",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Transport and Logistics Management",
+                        "code": "B34TLQ",
+                        "type": "Bachelor of Commerce Degree",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "26",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "Not Accepted",
+                                "technical_mathematics": "4",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Accounting",
+                        "code": "B3AE7Q",
+                        "type": "Bachelor of Commerce Degree Extended Degree" ,
+                        "duration": "4",
+                        "note": "Does not provide direct access to the Postgraduate Diploma in Accounting Science. However, students who complete the degree, may apply for a bridging programme (subject to space, admission requirements and the continued future offering of this programme). Upon completion of this bridging programme and compliance with specific performance requirements, candidates may then apply for the Postgraduate Diploma in Accounting Science.",
+                        "aps": "25 with Mathematics OR 28 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "6",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Business Management",
+                        "code": "B34BEQ",
+                        "type": "Bachelor of Commerce Degree Extended Degree",
+                        "duration": "4",
+                        "note": "",
+                        "aps": "25 with Mathematics OR 28 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "6",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Economics and Econometrics",
+                        "code": "B3NE4Q",
+                        "type": "Bachelor of Commerce Degree Extended Degree",
+                        "duration": "4",
+                        "note": "",
+                        "aps": "25 with Mathematics OR 28 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "6",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Finance",
+                        "code": "B3FE7Q",
+                        "type": "Bachelor of Commerce Degree Extended Degree",
+                        "duration": "4",
+                        "note": "",
+                        "aps": "25 with Mathematics OR 28 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "6",
+                                "technical_mathematics": "Not Accepted",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Accountancy",
+                        "code": "D3A15Q",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "A student in the College of Business and Economics who has diploma endorsement but does not meet the specific diploma entry requirements may obtain access to diploma studies in Accountancy or Financial Services Operations through the Programme in Commercial Accounting and must complete all prescribed modules of the latter programme within the first year of registration.",
+                        "aps": "22 with Mathematics OR 24 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Business Information Technology",
+                        "code": "DI1401",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "22 with Mathematics OR 24 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "6",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Financial Services Operations",
+                        "code": "D34F9Q",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "A student in the College of Business and Economics who has diploma endorsement but does not meet the specific diploma entry requirements may obtain access to diploma studies in Accountancy or Financial Services Operations through the Programme in Commercial Accounting and must complete all prescribed modules of the latter programme within the first year of registration.",
+                        "aps": "22 with Mathematics OR 24 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Food and Beverage Operations",
+                        "code": "D1FBOQ",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "22 with Mathematics OR 24 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Logistics",
+                        "code": "D1LOGQ",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "22 with Mathematics OR 24 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Marketing",
+                        "code": "D1MKTQ",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "A student in the College of Business and Economics who does not have Diploma endorsement and has completed the Higher Certificate in Marketing and Sales with UJ's Department of Marketing Management may gain access to diploma studies in Marketing or in Retail Business Management provided that they: \r - have completed the Higher Certificate in Marketing and Sales within the first year of registration; \r - obtained a minimum mark of 60% for each of the following modules: English 1A, English 1B, Mathematics for Marketers 1A and Mathematics for Marketers 1B; and \r - also meet additional departmental selection criteria.",
+                        "aps": "22 with Mathematics OR 24 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "People Management",
+                        "code": "D34P2Q",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "22 with Mathematics OR 24 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Retail Business Management",
+                        "code": "D1RBMQ",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "A student in the College of Business and Economics who does not have Diploma endorsement and has completed the Higher Certificate in Marketing and Sales with UJ's Department of Marketing Management may gain access to diploma studies in Marketing or in Retail Business Management provided that they: \r - have completed the Higher Certificate in Marketing and Sales within the first year of registration; \r - obtained a minimum mark of 60% for each of the following modules: English 1A, English 1B, Mathematics for Marketers 1A and Mathematics for Marketers 1B; and \r - also meet additional departmental selection criteria.",
+                        "aps": "22 with Mathematics OR 24 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Small Business Management",
+                        "code": "D1SBMQ",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "22 with Mathematics OR 24 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Tourism Management",
+                        "code": "D1TOUQ",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "22 with Mathematics OR 24 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Transportation Management",
+                        "code": "D1TRMQ",
+                        "type": "Diploma",
+                        "duration": "3",
+                        "note": "",
+                        "aps": "22 with Mathematics OR 24 with Mathematics literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Logistics",
+                        "code": "D1LOGE",
+                        "type": "Extended Diploma",
+                        "duration": "4",
+                        "note": "",
+                        "aps": "19 with Mathamatics OR 21 with Mathametics Literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "People Management",
+                        "code": "D34PEQ",
+                        "type": "Extended Diploma",
+                        "duration": "4",
+                        "note": "",
+                        "aps": "19 with Mathamatics OR 21 with Mathametics Literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "4",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Small Business Management",
+                        "code": "D1SBME",
+                        "type": "Extended Diploma",
+                        "duration": "4",
+                        "note": "",
+                        "aps": "19 with Mathamatics OR 21 with Mathametics Literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "4",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Transportation Management",
+                        "code": "D1TRME",
+                        "type": "Extended Diploma",
+                        "duration": "4",
+                        "note": "",
+                        "aps": "19 with Mathamatics OR 21 with Mathametics Literacy",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "3",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "3",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Bachelor of Human Resource Management",
+                        "code": "B34HRP",
+                        "type": "Online Programme",
+                        "duration": "Not Available",
+                        "note": "",
+                        "aps": "28 With Mathematics OR Mathematics Literacy" ,
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "5",
+                                "technical_mathematics": "Not Required",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    },
+                    {
+                        "name": "Bachelor of Commerce in Accountancy",
+                        "code": "B34ACP",
+                        "type": "Online Programme",
+                        "duration": "Not Available",
+                        "note": "",
+                        "aps": "28 With Mathematics",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "Not Required",
+                                "life_sciences": "Not Required",
+                                "agricultural_science": "Not Required",
+                                "mathematics": "4",
+                                "mathematics_literacy": "Not Accepted",
+                                "technical_mathematics": "Not Required",
+                                "technical_science": "Not Required"
+                            },
+                            "languages": {
+                                "english_home_language": "4",
+                                "english_additional_language": "4",
+                                "isizulu_home_language": "Not Required",
+                                "isizulu_additional_language": "Not Required",
+                                "sepedi_home_language": "Not Required",
+                                "sepedi_additional_language": "Not Required",
+                                "xhosa_home_language": "Not Required",
+                                "xhosa_additional_language": "Not Required",
+                                "ndebele_home_language": "Not Required",
+                                "ndebele_additional_language": "Not Required",
+                                "afrikaans_home_language": "Not Required",
+                                "afrikaans_additional_language": "Not Required",
+                                "xitsonga_home_language": "Not Required",
+                                "xitsonga_additional_language": "Not Required",
+                                "xhivenda_home_language": "Not Required",
+                                "xhivenda_additional_language": "Not Required",
+                                "sotho_home_language": "Not Required",
+                                "sotho_additional_language": "Not Required",
+                                "isiswati_home_language": "Not Required",
+                                "isiswati_additional_language": "Not Required",
+                                "setswana_home_language": "Not Required",
+                                "setswana_additional_language": "Not Required"
+                            },
+                            "other": {
+                                "life_orientation": "Not Required",
+                                "agriculture": "Not Required",
+                                "geography": "Not Required"
                             }
                         },
                         "career_paths": [
@@ -620,7 +2596,7 @@
                         "note": "",
                         "aps": "",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "",
                                 "life_sciences": "",
                                 "agricultural_science": "",
@@ -655,7 +2631,8 @@
                             },
                             "other": {
                                 "life_orientation": "",
-                                "agriculture": ""
+                                "agriculture": "",
+                                "geography": ""
                             }
                         },
                         "career_paths": [
@@ -675,7 +2652,7 @@
                         "note": "",
                         "aps": "",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "",
                                 "life_sciences": "",
                                 "agricultural_science": "",
@@ -710,7 +2687,8 @@
                             },
                             "other": {
                                 "life_orientation": "",
-                                "agriculture": ""
+                                "agriculture": "",
+                                "geography": ""
                             }
                         },
                         "career_paths": [
@@ -730,7 +2708,7 @@
                         "note": "",
                         "aps": "",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "",
                                 "life_sciences": "",
                                 "agricultural_science": "",
@@ -765,7 +2743,8 @@
                             },
                             "other": {
                                 "life_orientation": "",
-                                "agriculture": ""
+                                "agriculture": "",
+                                "geography": ""
                             }
                         },
                         "career_paths": [
@@ -785,7 +2764,7 @@
                         "note": "",
                         "aps": "",
                         "subjects": {
-                            "science": {
+                            "science_and_mathematics": {
                                 "physical_science": "",
                                 "life_sciences": "",
                                 "agricultural_science": "",
@@ -820,7 +2799,8 @@
                             },
                             "other": {
                                 "life_orientation": "",
-                                "agriculture": ""
+                                "agriculture": "",
+                                "geography": ""
                             }
                         },
                         "career_paths": [
@@ -833,7 +2813,6 @@
                         "additional_requirements": ""
                     }
                 ]
-              
             }
         ]
     }
