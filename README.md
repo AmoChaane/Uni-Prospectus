@@ -54,8 +54,8 @@ git checkout -b YOUR_FAVOURITE_BRANCH_NAME
 
 ```
 
-9. Code Away 🤱 😜
-10. When you are done having fun (Make sure the current branch is your favourite branch name
+3. Code Away 🤱 😜
+4. When you are done having fun (Make sure the current branch is your favourite branch name
 
 ```
 git fetch upstream
