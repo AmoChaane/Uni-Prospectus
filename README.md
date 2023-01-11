@@ -39,7 +39,7 @@ Its easy to contribute just follow the steps below
 
 git clone https://github.com/yourUserName/Uni-Prospectus.git 
 
-cd Online-Store
+cd Uni-Prospectus
 
 git checkout -b YOUR_FAVOURITE_BRANCH_NAME
 
@@ -54,8 +54,8 @@ git checkout -b YOUR_FAVOURITE_BRANCH_NAME
 
 ```
 
-9. Code Away 🤱 😜
-10. When you are done having fun (Make sure the current branch is your favourite branch name
+3. Code Away 🤱 😜
+4. When you are done having fun (Make sure the current branch is your favourite branch name
 
 ```
 git fetch upstream
@@ -67,3 +67,5 @@ git push -u origin YOUR_FAVOURITE_BRANCH_NAME
 ```
 
 Well done !!! 
+
+Now you can create a pull request
