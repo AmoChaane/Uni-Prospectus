@@ -1,0 +1,72 @@
+
+{
+    "uni_name": {
+        "short_name": "",
+        "full_name": "",
+        "apply_online": "",
+        "faculties": [
+            {
+                "faculty_name": "",
+                "programs": [
+                     {
+                        "name": "",
+                        "code": "",
+                        "type": "",
+                        "duration": "",
+                        "note": "",
+                        "aps": "",
+                        "subjects": {
+                            "science_and_mathematics": {
+                                "physical_science": "",
+                                "life_sciences": "",
+                                "agricultural_science": "",
+                                "mathematics": "",
+                                "mathematics_literacy": "",
+                                "technical_mathematics": "",
+                                "technical_science": ""
+                            },
+                            "languages": {
+                                "english_home_language": "",
+                                "english_additional_language": "",
+                                "isizulu_home_language": "",
+                                "isizulu_additional_language": "",
+                                "sepedi_home_language": "",
+                                "sepedi_additional_language": "",
+                                "xhosa_home_language": "",
+                                "xhosa_additional_language": "",
+                                "ndebele_home_language": "",
+                                "ndebele_additional_language": "",
+                                "afrikaans_home_language": "",
+                                "afrikaans_additional_language": "",
+                                "xitsonga_home_language": "",
+                                "xitsonga_additional_language": "",
+                                "xhivenda_home_language": "",
+                                "xhivenda_additional_language": "",
+                                "sotho_home_language": "",
+                                "sotho_additional_language": "",
+                                "isiswati_home_language": "",
+                                "isiswati_additional_language": "",
+                                "setswana_home_language": "",
+                                "setswana_additional_language": ""
+                            },
+                            "other": {
+                                "life_orientation": "",
+                                "agriculture": "",
+                                "geography": ""
+                            }
+                        },
+                        "career_paths": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ],
+                        "campus": "",
+                        "additional_requirements": ""
+                    }
+                ]
+              
+            }
+        ]
+    }
+}

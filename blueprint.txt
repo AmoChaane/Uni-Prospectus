@@ -28,3 +28,29 @@ University: Object {}
 
 
 
+dut = Durban University
+fhu = FortHare University
+nmu = Nelson Mandela University
+nwu = North West University
+spu = Sol Plaatje University
+sun = Stellenborch University
+tut = Tswane University Of Technology
+uct = University Of Cape Town
+ufs = University Of the Free State
+uj = University Of Johannesburg
+ukzn = University of KwaZulu Natal
+ul = University Of Limpopo
+ump = University Of Mpumalanga
+unisa = UNISA
+univen = Universtiy Of Venda
+up = University Of Pretoria
+vut = Vaal University Of Technology
+wits = Wits University
+wsu = Walter Sisulu University
+ru = Rhodes University
+smu = Sefako Makgatho Health Sciences University
+unizulu = University of Zululand
+mut = Mangosuthu University of Technology
+cut = Central University of Technology
+cput = Cape Peninsula University of Technology
+uwc = University of the Western Cape
